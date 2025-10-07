@@ -1,5 +1,3 @@
-Perfect 👍 Here’s a **professional, stylish, and visually rich `README.md`** file you can directly use for your GitHub project:
-
 > Project: **Infosys PaperIQ – Classical NLP Version (Chat + Download History + Research Navigator)**
 
 ---
@@ -148,10 +146,8 @@ textblob==0.18.0
 
 ## 👨‍💻 Author
 
-**Vinay U**
+**Vinay kumar**
 🚀 AI & Full Stack Developer | Generative AI | NLP | LangChain
-📧 *[[your-email@example.com](mailto:your-email@example.com)]*
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
 ---
 
