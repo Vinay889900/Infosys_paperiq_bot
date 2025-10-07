@@ -150,12 +150,3 @@ textblob==0.18.0
 🚀 AI & Full Stack Developer | Generative AI | NLP | LangChain
 
 ---
-
-## ⭐ Support
-
-If you find this project helpful, please consider giving it a **⭐ star** on GitHub!
-Your support motivates me to build more open-source AI tools. ❤️
-
----
-
-Would you like me to also generate a **modular version** of this project (with separate files like `utils/text_processing.py`, `summarizer.py`, etc.) for a more professional GitHub structure?
